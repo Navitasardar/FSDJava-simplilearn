@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HibernateLazyCollections/src/main/java/OS.hbm.xml&apos; to &apos;Os.hbm.xml&apos;" description="Rename resource &apos;OS.hbm.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/OS.hbm.xml" name="Os.hbm.xml" stamp="1648026219675" updateReferences="true"/>
+</session>
