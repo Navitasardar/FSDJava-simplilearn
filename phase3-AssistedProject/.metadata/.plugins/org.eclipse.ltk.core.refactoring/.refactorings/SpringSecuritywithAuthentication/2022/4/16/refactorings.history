@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;SpringSecuritywithAuthentication&apos;&#x0D;&#x0A;- Original project: &apos;SpringSecuritywithAuthentication&apos;&#x0D;&#x0A;- Original element: &apos;SpringSecuritywithAuthentication/src/main/java/com.project.SpringSecurity.MvcConfig&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.project.SpringSecurity.MvcConfig" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1649734322285" subPackages="false" version="1.0"/>
+</session>

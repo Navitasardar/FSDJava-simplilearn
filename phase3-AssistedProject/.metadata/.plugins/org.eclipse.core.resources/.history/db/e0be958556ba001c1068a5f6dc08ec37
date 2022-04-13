@@ -1,0 +1,5 @@
+package com.sportyshoes.configuration;
+
+public class SprotyShoesSecurityConfiguration {
+
+}
